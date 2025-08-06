@@ -11,12 +11,19 @@ A Python-based tool for analyzing and researching stocks, sectors, benchmarks, a
 
 ## Project Structure
 ├── data/ # Raw and processed data
+
 ├── scripts/ # Core analysis modules (ingestion, indicators, etc.)
+
 ├── notebooks/ # Jupyter or RMarkdown analysis
+
 ├── reports/ # Auto-generated research reports
+
 ├── dashboards/ # (Optional) Interactive dashboards
+
 ├── tests/ # Unit tests
+
 ├── requirements.txt
+
 └── README.md
 
 ## Getting Started
