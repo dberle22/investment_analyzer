@@ -22,6 +22,8 @@ A Python-based tool for analyzing and researching stocks, sectors, benchmarks, a
 
 ├── tests/ # Unit tests
 
+├── outputs/ # Processed results, charts, etc.
+
 ├── requirements.txt
 
 └── README.md
