@@ -209,3 +209,7 @@ __marimo__/
 # Local Dev Files
 .DS_Store
 data/.DS_Store
+/.venv
+/venv
+venv
+data
